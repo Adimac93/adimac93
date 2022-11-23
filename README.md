@@ -8,13 +8,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adimac93&count_private=true&hide=stars&show_icons=true&theme=onedark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adimac93&show_icons=true&theme=onedark&count_private=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimac93&theme=onedark&hide=html"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimac93&layout=compact&theme=onedark&count_private=true"/>
 </div>
-
-
-
 
