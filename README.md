@@ -16,5 +16,5 @@
 </div>
 
 <div align="center">
-  Currently working on https://chad-chat.up.railway.app
+  Currently working on <i>super secret project :D</i>
 </div>
