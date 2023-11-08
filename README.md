@@ -4,7 +4,7 @@
   <h1>Hey there!</h1>
   <br>
   <div align="center">
-    Check out the newest open source project: https://github.com/HubertK05/banban
+    Check out the newest open source project: <a href="https://github.com/HubertK05/banban">kanban board</a>
   </div>
   <br>
   <div align="center">
