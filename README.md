@@ -6,7 +6,7 @@
   <div align="center">
     Check out the newest open source project: <a href="https://github.com/HubertK05/banban">kanban board</a>
     <br/>
-    Hack Club organsiation: <a href="https://github.com/ALOPB-Hack-Club">ALOPB Hack Club</a>
+    Hack Club organization: <a href="https://github.com/ALOPB-Hack-Club">ALOPB Hack Club</a>
   </div>
   <br>
   <div align="center">
