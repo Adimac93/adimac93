@@ -4,7 +4,9 @@
     <div align="center">
         Check out the newest open source project: <a href="https://github.com/HubertK05/banban">kanban board</a>
         <br />
-        Hack Club organization: <a href="https://github.com/ALOPB-Hack-Club">ALOPB Hack Club</a>
+        Hack Club organization: <a href="https://github.com/ALOPB-Hack-Club">ALOPB Hack Club</a>,
+        <a href="https://summit.hackclub.com">Hack Club Leaders Summit 2024</a> <a href="https://www.youtube.com/watch?v=UZEm5lONg7g">🎬</a>,
+        <a href="https://trail.hackclub.com">Hack Club The Trail 2024</a> <a href="https://www.youtube.com/watch?v=ufMUJ9D1fi8&t=695s">🎬</a>
     </div>
     <hr />
     <div align="center">
