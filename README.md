@@ -31,7 +31,9 @@
 
 <details open>
     <summary>Involved in</summary>
-    <img src="https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white" />
+    <a href="https://hackclub.com/">
+        <img src="https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white" />
+    </a>
 </details>
 
 <details open>
@@ -83,29 +85,32 @@
         alt="Signal">
         <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"
             alt="Proton Mail">
-        <a href="https://discord.com/users/331744731023409152"><img
+        <a href="https://discord.com/users/331744731023409152">
+            <img
         src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-        alt="Discord"></a>
-        <a href="https://dev.to/adimac93"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"></a>
-        <a href="https://www.linkedin.com/in/adam-maciejczuk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        alt="Discord">
+        </a>
+        <a href="https://dev.to/adimac93">
+            <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to">
+        </a>
+        <a href="https://www.linkedin.com/in/adam-maciejczuk">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
     </details>
     <details>
         <summary>Web</summary>
         <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-                <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
+        <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
         <img src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM">
         <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite">
         <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io">
     </details>
     <details>
         <summary>Edu</summary>
-        <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"
-            alt="Exercism">
-        <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"
-            alt="MDN">
-        <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"
-            alt="Khan Academy">
+        <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism">
+        <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN">
+        <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white" alt="Khan Academy">
         <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt=HackTheBox>
     </details>
     <details>
@@ -135,8 +140,6 @@
         <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="Wireguard">
         <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" alt="OpenWrt">
     </details>
-
-
 </details>
 
 
