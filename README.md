@@ -74,6 +74,7 @@
     <details open>
         <summary>Communication</summary>
         <a href="https://signal.org/"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" alt="Signal" /></a>
+        <a href="https://telegram.org/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
         <a href="https://proton.me/mail"><img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail" /></a>
         <a href="https://discord.com/users/331744731023409152">
             <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
