@@ -50,10 +50,11 @@
     <summary><b>Details</b></summary>
     <details open>
         <summary>OS & Terminal</summary>
+        <a href="https://nixos.org/"><img src="https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" alt="NixOS" /></a>
         <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" /></a>
         <a href="https://apple.com/macos/"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" /></a>
         <a href="https://starship.rs/"><img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" alt="Starship.rs" /></a>
-        <a href="https://wezfurlong.org/wezterm/"><img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white" alt="Wezterm" /></a>
+        <a href="https://alacritty.org/"><img src="https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="Alacritty" /></a>
         <a href="https://iterm2.com/"><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="iTerm" /></a>
         <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" /></a>
         <a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" /></a>
